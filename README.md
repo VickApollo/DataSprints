@@ -1,4 +1,5 @@
 # DataSprints
+
 Project to show technical skills related to Data Engineering.
 
 # Requirements
@@ -29,7 +30,8 @@ All datasets are available on a public url hosted on amazon's web server. Below 
 This test was writen in Python making use of Jupyter Notebook to format the test in Dossier style. Is recommended to use Python 3 in order to maintaing compatibility with the modules and functions presented in this project.
 
 
-3. Further improvements/implementations:
+# Further improvements/implementations
+
 - For data analysis: A tecnology we could also use instead of Pandas is Dask. Dask is a parallel computing technology created in Python and extends interfaces from Pandas , Numpy and others known modules. Dask provides a lazy transformations (same approach as Spark) which provides you the flexibility to design and test in large scale in a very stable and manageble enviroment.
 
 - For data processing (streaming): On this project we take the advantages of chunk reading to simulate a streaming of data. To make things more reallistic we could actually use streaming tools for that. Suggestion would be a combo of Kafka + Faust (Python Module). Kafka would be the streaming service receiving messages while Faust would be the actual data processor receiving the data from the streaming service.
