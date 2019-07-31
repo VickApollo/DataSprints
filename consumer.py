@@ -2,7 +2,7 @@ import time
 import json
 from kafka import KafkaConsumer
 
-# Array to store our trips
+# Variables need for average calculation
 total = 0
 amount = 0
 
