@@ -1,5 +1,4 @@
 import time
-import numpy
 import json
 from kafka import KafkaConsumer
 
