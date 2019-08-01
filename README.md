@@ -16,7 +16,7 @@ To run the test on your computer you must have the following folder structure:
 |       +-- data-sample_data-nyctaxi-trips-2011-json_corrigido.json
 |       +-- data-sample_data-nyctaxi-trips-2012-json_corrigido.json
 |   +-- low_memory_dataframe.py
-|   +-- DataSprint - Pandas.ipynb
+|   +-- Análises.ipynb
 |   +-- consumer.py
 |   +-- producer.py
 ```
