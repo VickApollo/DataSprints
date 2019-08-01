@@ -32,7 +32,7 @@ All datasets are available on a public url hosted on amazon's web server. Below 
 This test was writen in Python making use of Jupyter Notebook to format the test in Dossier style. Is recommended to use Python 3 in order to maintaing compatibility with the modules and functions presented in this project.
 
 # Streaming Configuration
-#point to file
+To see how to setup an AWS Server and Kafka service read: https://github.com/VickApollo/DataSprints/blob/master/aws_kafka.md
 
 # Further improvements/implementations
 
